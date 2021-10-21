@@ -1,4 +1,2 @@
 - 👋 Hi, I’m David Odejobi
-- 🌱 I am a flutter Developer 
-- 💞️ I’m looking to collaborate on any available projects that is within my stack
-- 📫 You can reach me on twitter, instagram and github @davidaodejobi
+- 🌱 I am a flutter Developer
