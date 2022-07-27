@@ -1,6 +1,6 @@
 [![Header](https://github.com/davidaodejobi/davidaodejobi/blob/main/readme-header.png "Header")](https://www.linkedin.com/in/iamdavidodejobi/)
 
-My name is David Odejobi and I'm a mobile engineer(flutter). I currently reside in Nigeria, and currently working remotely for a company in Nigeria. You can connect with me on twitter [@iamDavidOdejobi](https://twitter.com/iamDavidOdejobi) and on [linkedIn](https://www.linkedin.com/in/iamdavidodejobi/).
+My name is David Odejobi and I'm a mobile engineer(flutter). I currently reside in Nigeria, and currently working remotely for a company in Nigeria. You can connect with me on [twitter](https://twitter.com/iamDavidOdejobi) and on [linkedIn](https://www.linkedin.com/in/iamdavidodejobi/).
 
 ## 🔧 Technologies & Tools
 
