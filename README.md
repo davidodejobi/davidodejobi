@@ -1,4 +1,14 @@
-- 👋 Hi, I’m David Odejobi
-- 🌱 I am a flutter Developer
-- Currently, I'm participating in the 100 days of code to become a better flutter developer [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
-- You can connect with me on twitter [@iamDavidOdejobi](https://twitter.com/iamDavidOdejobi) and on [linkedIn](https://www.linkedin.com/in/iamdavidodejobi/) 
+[![Header](https://github.com/davidaodejobi/davidaodejobi/blob/main/readme-header.png "Header")](https://www.linkedin.com/in/iamdavidodejobi/)
+
+My name is David Odejobi and I'm a mobile engineer(flutter). I currently reside in Nigeria, and currently working remotely for a company in Nigeria. You can connect with me on twitter [@iamDavidOdejobi](https://twitter.com/iamDavidOdejobi) and on [linkedIn](https://www.linkedin.com/in/iamdavidodejobi/).
+
+## 🔧 Technologies & Tools
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/davidaodejobi/davidaodejobi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/davidaodejobi/davidaodejobi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
