@@ -2,7 +2,7 @@
 
 # Hello there! <img src="https://github.com/davidaodejobi/davidaodejobi/blob/main/wave.gif" width="30px" height="30px" />
 
-My name is David Odejobi and I'm a mobile engineer(flutter). I currently reside in Nigeria, and currently working remotely for a company in Nigeria. You can connect with me on [twitter](https://twitter.com/iamDavidOdejobi) and on [linkedIn](https://www.linkedin.com/in/iamdavidodejobi/).
+My name is David Odejobi and I'm a mobile engineer(flutter). I currently reside in Nigeria. You can connect with me on [twitter](https://twitter.com/iamDavidOdejobi) and on [linkedIn](https://www.linkedin.com/in/iamdavidodejobi/).
 
 ## 🔧 Technologies & Tools
 
