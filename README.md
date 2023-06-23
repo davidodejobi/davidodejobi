@@ -18,6 +18,17 @@ Another blog post on creating a Material 3 bottom navigation bar in Flutter. Thi
 [Read the blog post](https://www.educative.io/answereditor/5964367973842944)
 
 ## 🔧 Technologies & Tools
+Here are some of the technologies and tools I frequently use in my projects:
+
+- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter: The main framework used for building the app.
+- ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart: The programming language used with Flutter.
+- ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code: The IDE I used for development.
+- ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png) Android Studio: Another IDE option for Flutter development.
+- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase: Backend services used for authentication, database, and more.
+- ![SQLite](https://img.icons8.com/ios-filled/50/000000/sql.png) SQLite: Local database for storing app data.
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git: Version control system for managing the project code.
+- ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub: Hosting the project repository and collaboration.
+- ![Flutter DevTools](https://img.icons8.com/color/48/000000/bug.png) Flutter DevTools: Debugging and profiling tools for Flutter apps.
 
 ## &#x1f4c8; GitHub Stats
 
@@ -27,3 +38,4 @@ Another blog post on creating a Material 3 bottom navigation bar in Flutter. Thi
 <a href="https://github.com/davidaodejobi/davidaodejobi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidaodejobi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="David's GitHub Stats" />
 </a>
+
