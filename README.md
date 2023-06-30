@@ -20,15 +20,7 @@ Another blog post on creating a Material 3 bottom navigation bar in Flutter. Thi
 ## 🔧 Technologies & Tools
 Here are some of the technologies and tools I frequently use in my projects:
 
-- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter: The main framework used for building the app.
-- ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart: The programming language used with Flutter.
-- ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code: The IDE I used for development.
-- ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png) Android Studio: Another IDE option for Flutter development.
-- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase: Backend services used for authentication, database, and more.
-- ![SQLite](https://img.icons8.com/ios-filled/50/000000/sql.png) SQLite: Local database for storing app data.
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git: Version control system for managing the project code.
-- ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub: Hosting the project repository and collaboration.
-- ![Flutter DevTools](https://img.icons8.com/color/48/000000/bug.png) Flutter DevTools: Debugging and profiling tools for Flutter apps.
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![SQLite](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) ![Flutter DevTools](https://img.icons8.com/color/48/000000/bug.png)
 
 ## &#x1f4c8; GitHub Stats
 
