@@ -21,13 +21,3 @@ Another blog post on creating a Material 3 bottom navigation bar in Flutter. Thi
 Here are some of the technologies and tools I frequently use in my projects:
 
 ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![SQLite](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) ![Flutter DevTools](https://img.icons8.com/color/48/000000/bug.png)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/davidaodejobi/davidaodejobi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidaodejobi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/davidaodejobi/davidaodejobi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidaodejobi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="David's GitHub Stats" />
-</a>
-
