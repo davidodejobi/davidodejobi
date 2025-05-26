@@ -34,5 +34,4 @@ I love building high-quality mobile software that
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/iamdavidodejobi/) · [Portfolio]([https://twitter.com/iamDavidOdejobi](https://davidodejobi.tech/))
-
+[LinkedIn](https://www.linkedin.com/in/iamdavidodejobi/) · [Portfolio](https://davidodejobi.tech/)
