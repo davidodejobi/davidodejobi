@@ -2,22 +2,37 @@
 
 # Hello there! <img src="https://github.com/davidaodejobi/davidaodejobi/blob/main/wave.gif" width="30px" height="30px" />
 
-I'm David Odejobi, a Flutter mobile engineer based in Nigeria. If you want to get in touch with me, you can find me on [linkedIn](https://www.linkedin.com/in/iamdavidodejobi/) and [twitter](https://twitter.com/iamDavidOdejobi). My main drive is utilizing technology to tackle challenges and create groundbreaking solutions.
+# Hey! I am David Odejobi
 
-## Blog Posts
-### How to Iterate Elements with forEach in Dart
+I love building high-quality mobile software that  
 
-Check out my blog post on how to iterate elements with the `forEach` method in Dart. This tutorial provides a detailed explanation and examples to help you understand the usage of `forEach` in Dart.
+- Delivers delightful user experiences  
+- Solves real-world problems at scale  
 
-[Read the blog post](https://www.educative.io/answereditor/5927347074367488)
+## About Me
+- Flutter Mobile Engineer & Tech Educator  
 
-### How to Create a Material 3 Bottom Navigation Bar in Flutter
+## My Expertise (in order)
+1. Mobile Frontend (Flutter, animations, offline-first)  
+2. Backend & DevOps (Firebase/Supabase, Codemagic)  
 
-Another blog post on creating a Material 3 bottom navigation bar in Flutter. This tutorial will guide you step-by-step on implementing this UI component in your Flutter applications.
+## Languages & Frameworks
+- **Dart · Flutter**  
+- **Kotlin / Java** (native Android)  
+- **Swift / SwiftUI** (iOS)  
+- **Go, JavaScript/TypeScript**  
+- REST & GraphQL APIs  
 
-[Read the blog post](https://www.educative.io/answereditor/5964367973842944)
+## Tools I ❤️
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
+![Dart](https://img.icons8.com/color/48/000000/dart.png)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
-## 🔧 Technologies & Tools
-Here are some of the technologies and tools I frequently use in my projects:
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/iamdavidodejobi/) · [Portfolio]([https://twitter.com/iamDavidOdejobi](https://davidodejobi.tech/))
 
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![SQLite](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) ![Flutter DevTools](https://img.icons8.com/color/48/000000/bug.png)
