@@ -1,37 +1,19 @@
 [![Header](https://github.com/davidaodejobi/davidaodejobi/blob/main/readme-header.png "Header")](https://www.linkedin.com/in/iamdavidodejobi/)
 
-# Hello there! <img src="https://github.com/davidaodejobi/davidaodejobi/blob/main/wave.gif" width="30px" height="30px" />
+# Hey, I'm David 👋
 
-# Hey! I am David Odejobi
+I build software — mostly mobile, increasingly AI.
 
-I love building high-quality mobile software that  
+For the last few years that's meant shipping Flutter apps end to end: 
+offline-first architectures, apps that don't feel bolted on, 
+a little unglamorous backend/DevOps work that makes the app actually work 
+in production. Lately I've been pulling AI engineering into that mix — 
+building with it, reading about it and recently started writing about it [Substack](https://substack.com/@davidodejobi).
 
-- Delivers delightful user experiences  
-- Solves real-world problems at scale  
+Open to collaborating on interesting builds — if you need someone on 
+your project, or just want to build something together, reach out.
 
-## About Me
-- Flutter Mobile Engineer & Tech Educator  
-
-## My Expertise (in order)
-1. Mobile Frontend (Flutter, animations, offline-first)  
-2. Backend & DevOps (Firebase/Supabase, Codemagic)  
-
-## Languages & Frameworks
-- **Dart · Flutter**  
-- **Kotlin / Java** (native Android)  
-- **Swift / SwiftUI** (iOS)  
-- **Go, JavaScript/TypeScript**  
-- REST & GraphQL APIs  
-
-## Tools I ❤️
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
-![Dart](https://img.icons8.com/color/48/000000/dart.png)
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png)
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
-![Figma](https://img.icons8.com/color/48/000000/figma.png)
-
-## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/iamdavidodejobi/) · [Portfolio](https://davidodejobi.tech/)
+### Find me
+🌐 [davidodejobi.tech](https://davidodejobi.vercel.app/) — portfolio, updated
+💼 [LinkedIn](https://www.linkedin.com/in/iamdavidodejobi/)
+✍️ [Substack](https://substack.com/@davidodejobi) — building, learning, failing, trying again
