@@ -1,6 +1,6 @@
 [![Header](https://github.com/davidaodejobi/davidaodejobi/blob/main/readme-header.png "Header")](https://www.linkedin.com/in/iamdavidodejobi/)
 
-# Hey, I'm David 👋
+# Hey, I'm David <img src="https://github.com/davidaodejobi/davidaodejobi/blob/main/wave.gif" width="30px" height="30px" />
 
 I build software — mostly mobile, increasingly AI.
 
