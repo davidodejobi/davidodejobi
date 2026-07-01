@@ -14,6 +14,6 @@ Open to collaborating on interesting builds — if you need someone on
 your project, or just want to build something together, reach out.
 
 ### Find me
-🌐 [davidodejobi.tech](https://davidodejobi.vercel.app/) — portfolio, updated
+🌐 [davidodejobi.tech](https://davidodejobi.vercel.app/) — portfolio
 💼 [LinkedIn](https://www.linkedin.com/in/iamdavidodejobi/)
-✍️ [Substack](https://substack.com/@davidodejobi) — building, learning, failing, trying again
+✍️ [Substack](https://substack.com/@davidodejobi)
